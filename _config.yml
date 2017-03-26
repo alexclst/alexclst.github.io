@@ -1,2 +1,3 @@
 name: Alexander Celeste's Experimental Github-hosted Website
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
