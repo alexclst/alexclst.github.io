@@ -4,9 +4,4 @@ title: Alexander Celeste's Experimental Github-hosted Website
 ---
 # Hi there, I'm Alexander Celeste
 
-I am just experimenting with this way of building a website here. So currently there is not much to see.
-
-You can read my [blog](/blog) or [contact](/contact) me.
-
-* Age
-* DOB
+Please look at my [main website](https://alex.clst.org) for where my real website is. This used to be an early experiment with Jekyll.
